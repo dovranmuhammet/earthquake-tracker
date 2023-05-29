@@ -1,5 +1,7 @@
 # Earthquake Tracker
 
+https://dovranmuhammet.github.io/earthquake-tracker/
+
 This is the official repository for the Earthquake Tracker website.
 
 ## Description
