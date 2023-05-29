@@ -1,3 +1,39 @@
+# Earthquake Tracker
+
+This is the official repository for the Earthquake Tracker website.
+
+## Description
+
+The Earthquake Tracker is a web application that allows users to track and visualize earthquake data from around the world. It provides real-time information on earthquake occurrences, magnitudes, and locations.
+
+## Demo
+
+Check out the live demo of the Earthquake Tracker website: [Earthquake Tracker Demo](https://dovranmuhammet.github.io/earthquake-tracker/)
+
+## Features
+
+- Real-time earthquake data visualization
+- Interactive map displaying earthquake locations
+- Filter and search functionality
+- Historical earthquake data analysis
+
+## Technologies Used
+
+- React
+- Leaflet (Mapping library)
+- RESTful API (for earthquake data)
+- HTML/CSS
+
+## Installation
+
+To run the Earthquake Tracker locally on your machine, follow these steps:
+
+1. Clone the repository:
+
+
+
+
+
 # Global Earthquakes
 
 A react app to visualize global earthquakes on a map in different time periods, using filtering capabilities, and provide metadata for each earthquake.
